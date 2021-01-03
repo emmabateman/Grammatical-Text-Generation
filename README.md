@@ -1,2 +1,2 @@
 # Grammatical-Text-Generation
-Script to generate a random grammatically correct sentences given an input CFG file
+Script to generate random grammatically correct sentences given an input CFG file
